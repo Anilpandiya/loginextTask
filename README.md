@@ -1,6 +1,19 @@
-# Loginext
+# LoginextTask
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.8.
+This project was generated with :
+   angular cli version 6.2.8.
+   Node: 8.11.1
+   Angular: 6.1.10
+
+# STEPS to run the project :
+
+  1. Open the project folder and run the below command to install all the dependecies for this project :
+     npm install
+
+  2. Hit below command to run on a dev server :
+     npm start
+
+  3. Navigate to http://localhost:4200/
 
 ## Development server
 
