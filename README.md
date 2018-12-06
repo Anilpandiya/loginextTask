@@ -5,7 +5,7 @@ This project was generated with :
    Node: 8.11.1
    Angular: 6.1.10
 
-# STEPS to run the project :
+# Follow below steps :
 
   1. Open the project folder and run the below command to install all the dependecies for this project :
      npm install
